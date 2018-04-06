@@ -4,7 +4,7 @@ Just a super simple python script to send some text to twitter and mastodon at t
 Checks character length to make sure its under 280 for twitter.
 
 Requirements: 
->`pip install Mastodon.py tweepy`
+* `pip install Mastodon.py tweepy`
 
 Usage: 
->`./twoot.py "twoot test 🐦🐘"`
+* `./twoot.py "twoot test 🐦🐘"`
