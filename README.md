@@ -8,3 +8,7 @@ Requirements:
 
 Usage: 
 * `./twoot.py "twoot test 🐦🐘"`
+
+Add a symlink for convenience:
+* `sudo ln -s /your-path/twoot/twoot.py /usr/local/bin/twoot`
+*  `twoot "twoot test 🐦🐘"`
